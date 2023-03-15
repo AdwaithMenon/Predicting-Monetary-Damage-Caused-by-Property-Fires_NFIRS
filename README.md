@@ -19,7 +19,11 @@ The goal of this project is to develop a predictive model to estimate the moneta
 
 **2) According to the NFIRS data (2014), the highest number of fires was reported in March of 2014.** 
 
-**3) **
+**3) Top 10 States with the Highest Property Loss (in Dollars)**
+
+<img width="304" alt="image" src="https://user-images.githubusercontent.com/70052374/225423159-e90f3ad9-81ae-4064-bd13-6e552afb7dda.png">
+
+* **The Top 10 States with the Highest Property Loss include California, Texas, Kentucky, Florida, Michigan, Illinois, Georgia, Ohio, Tennessee and Wisconsin.**
 
 ### **About the Models**
 
