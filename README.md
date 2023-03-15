@@ -13,7 +13,12 @@ The goal of this project is to develop a predictive model to estimate the moneta
 * **From the plot, we can see that the States like Illinois (IL), Ohio (OH) & Massachusetts (MA) have the highest number of injuries. Therefore, we can say that the incidents that occur in these states have proven to be more dangerous when compared to other bigger states like California(CA) & New York (NY).** 
 
 
+
+
 **2) According to the NFIRS data (2014), the highest number of fires was reported in March of 2014.** 
+
+
+
 
 **3) Top 10 States with the Highest Property Loss (in Dollars)**
 
