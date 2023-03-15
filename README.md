@@ -6,7 +6,18 @@ The goal of this project is to develop a predictive model to estimate the moneta
 
 ### **Observations**
 
+1) Number of Firefighters Injured Per State
 
+<img width="824" alt="image" src="https://user-images.githubusercontent.com/70052374/225415126-fa7e7b66-7f3f-4fff-9508-91076ce7949f.png">
+
+* **We have plotted the number of fire fighters injured per state using the 'plotly' package.**
+
+* **From the plot, we can see that the States like Illinois (IL), Ohio (OH) & Massachusetts (MA) have the highest number of injuries.**
+
+* **Therefore, we can say that the incidents that occur in these states have proven to be more dangerous when compared to other bigger states like California(CA) & New York (NY).** 
+
+
+2) 
 
 ### **About the Models**
 
