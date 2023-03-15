@@ -16,7 +16,7 @@ The goal of this project is to develop a predictive model to estimate the moneta
 
 * _From the Summary Table for OLS model, we see that there are predictor variables having p-values greater than 0.05. Instead of dropping these variables, we have used these variables for modeling which has impacted the model's performance._
 
-* _We can see from the correlation heat map that none of the predictor variables have a strong correlation with the target variable 'PROP_LOSS' . Hence, we haven't been able to capture too much variance using the 11 Predictor Variables used in the subset. That is why the R2 values for all 3 models are found to be less than 0.3 for Test Set.Hence,more variables will have to incorporated into the model to capture more variance & improve the R2 values._
+* _We can see from the correlation heat map that none of the predictor variables have a strong correlation with the target variable 'PROP_LOSS' . Hence, we haven't been able to capture too much variance using the 11 Predictor Variables used in the subset. That is why the R2 values for all 3 models are found to be less than 0.3 for Test Set.Hence, more variables will have to incorporated into the model to capture more variance & improve the R2 values._
 
 * _The R2 values for test set is comparable to R2 values for the training set for all 3 models. Hence , we can say that these models are not overfitting. So, although the predictive power for the models is not great, we can still categorize these models as 'good'._
 
