@@ -1,4 +1,4 @@
-## _Predicting Monetary Damage Caused by Property Fires_NFIRS Data_
+## _Predicting Monetary Damage Caused by Property Fires_NFIRS Data 2014_
 
 ### **Project Description**
 
@@ -17,7 +17,7 @@ The goal of this project is to develop a predictive model to estimate the moneta
 * **Therefore, we can say that the incidents that occur in these states have proven to be more dangerous when compared to other bigger states like California(CA) & New York (NY).** 
 
 
-**2) **
+**2) According to the NFIRS data (2014), the highest number of fires was reported in March of 2014.** 
 
 **3) **
 
