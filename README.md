@@ -1,4 +1,4 @@
-## _Predicting Monetary Damage Caused by Property Fires_NFIRS Data 2014_
+## _Predicting Monetary Damage Caused by Property Fires (NFIRS Data 2014)_
 
 ### **Project Description**
 
