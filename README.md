@@ -38,4 +38,4 @@ The goal of this project is to develop a predictive model to estimate the proper
 
 * _The R2 values for test set is comparable to R2 values for the training set for all 3 models. Hence , we can say that these models are not overfitting. So, although the predictive power for the models is not great, we can still categorize these models as 'good'._
 
-* _To improve the prediction power , we have tried the Random Forest Model as well.We got the highest R2 value for the Random Forest Model , with an R2 value of 0.55 for the Training Partition & 0.52 for the Test Partition.The Mean Absolute Error & Median Absolute errors were also found to be the lowest for the Random Forest Model._
+* _To improve the prediction power , we have tried the Random Forest Model as well.We got the highest R2 value for the Random Forest Model , with an R2 value of 0.55 for the Training Partition & 0.52 for the Test Partition.The Mean Absolute Error & Median Absolute error were also found to be the lowest for the Random Forest Model._
